@@ -93,7 +93,7 @@ void setup() {
   display.println("Air");
   display.setTextSize(1);
   display.setCursor(23, 20);
-  display.println("Qulaity monitor");
+  display.println("Quality monitor");
   display.display();
   delay(1200);
   display.clearDisplay();
